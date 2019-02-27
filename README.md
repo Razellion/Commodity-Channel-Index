@@ -1,2 +1,3 @@
 # Commodity-Channel-Index
-My Final Project for Basic Algorithm and Programming
+##Basic Algorithm and Programming Final Project
+A program that count Commodity-Channel-Index from input stream.
